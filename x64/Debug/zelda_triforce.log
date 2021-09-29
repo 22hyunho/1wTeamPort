@@ -1,0 +1,15 @@
+﻿  uiManager.cpp
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\cameramanager.h(69): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\cameramanager.h(71): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\cameramanager.h(72): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\printmanager.h(30): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\printmanager.h(30): note: 이 진단은 컴파일러 생성 함수 'void printManager::print(HDC,float,float,const char *,T)'에서 수행되었습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\printmanager.h(29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\printmanager.h(29): note: 이 진단은 컴파일러 생성 함수 'void printManager::print(HDC,float,float,const char *,T)'에서 수행되었습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\uimanager.h(39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\tileinfo.h(32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\player.h(66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\uimanager.cpp(64): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\uimanager.cpp(65): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eldorado\source\repos\jinkyong\zelda\zelda_triforce\zelda_triforce\uimanager.cpp(66): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  zelda_triforce.vcxproj -> C:\Users\eldorado\Source\Repos\JinKyong\Zelda\zelda_triforce\x64\Debug\zelda_triforce.exe
